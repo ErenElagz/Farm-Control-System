@@ -545,7 +545,7 @@ while True:
 
     #Nasıl Oynanır?
     elif anasayfa_sayfa == 5:
-        print("\n\nYapımcılar: Eren Elagöz,Alper Diler")
+        print("\n\nYapımcılar: Eren Elagöz")
         print("Ciftlik Oyunu ,bir ahır birde tarlanızın  olduğu küçük bir çiftlikte başlar.\nVe oyuna birkac hayvan birkac tarla ve 5000₺ ile başlarsınız.")
         print("Amacınız Her Hafta Üretim yapıp ve elde ettiginiz ürünleri pazar yerinde sattiğınız ve elde ettiğiniz parayla yatırım yaptığınız bir oyun")
         print("Fakat Herşey bu kadar basit değil! Her hafta fiyatlar değişiyor bazen fiyatlar çakılıyor bazende uçabiliyor")
